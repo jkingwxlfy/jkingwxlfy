@@ -2,7 +2,6 @@
 <br/>
 
 ## 🔥 Main Tech Stack
-
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
