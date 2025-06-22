@@ -1,4 +1,4 @@
-<h1>👋 Hi there! I'm a frontend developer from Siberia. Love crafting ui manually <3</h1>
+<h1>👋 Hi there! I'm a frontend developer from Siberia. <br/> Love crafting ui manually <3</h1>
 <br/>
 
 ## 🔥 Main Tech Stack
@@ -47,7 +47,6 @@
   </tr>
 </table>
 
-
 ## 🧪 Touched But Not Mastered
 <table width="100%">
   <tr>
@@ -69,7 +68,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 📂 Repositories
 
