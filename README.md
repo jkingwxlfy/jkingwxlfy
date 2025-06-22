@@ -1,6 +1,8 @@
 <h1>👋 Hi there! I'm a frontend developer from Siberia. Love crafting ui manually <3</h1>
 
+
 ## 🔥 Main Tech Stack
+
 
 <table width="100%">
   <tr>
@@ -47,7 +49,9 @@
   </tr>
 </table>
 
+
 ## 🧪 Touched But Not Mastered
+
 
 <table width="100%">
   <tr>
@@ -70,7 +74,9 @@
   </tr>
 </table>
 
+
 ## 📂 Repositories
+
 
 Nothing interesting here yet.  
 But when it drops — you’ll want to see it.
