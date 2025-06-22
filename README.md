@@ -66,6 +66,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
       <br />PostgreSQL
     </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="36" height="36" alt="Electron" />
+      <br />Electron
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" />
+      <br />Vue.js
+    </td>
   </tr>
 </table>
 <br/>
