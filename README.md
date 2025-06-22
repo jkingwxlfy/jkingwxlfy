@@ -1,4 +1,4 @@
-👋 Hi there! I'm a frontend developer from Siberia. Love crafting ui manually <3
+<h1>👋 Hi there! I'm a frontend developer from Siberia. Love crafting ui manually <3</h1>
 
 ---
 
